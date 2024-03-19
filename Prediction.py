@@ -1,13 +1,4 @@
 import pandas as pd
-from ucimlrepo import fetch_ucirepo
-import matplotlib.pyplot as plt
-from sklearn.cluster import KMeans
-from sklearn.metrics import accuracy_score
-from sklearn.impute import SimpleImputer
-from sklearn.preprocessing import StandardScaler
-import pickle
-# Fetch dataset
-import pandas as pd
 import numpy as np
 from ucimlrepo import fetch_ucirepo
 import matplotlib.pyplot as plt
